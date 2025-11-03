@@ -9,7 +9,7 @@ Vielen Dank, dass Sie zu unserem Projekt beitragen möchten! Hier sind einige Ri
 ## Code-Standards
 - Halten Sie sich an die vorhandene Code-Struktur und -Formatierung.
 - Fügen Sie Kommentare zu Ihrem Code hinzu, um dessen Funktion zu erklären.
-- Verwenden Sie gegebenenfalls Code-Style-Tools, um Konsistenz sicherzustellen.
+- Verwenden Sie gegebenenfalls Code-Style-Tools, um die Konsistenz sicherzustellen.
 
 ## Code-Überprüfungen
 - Stellen Sie sicher, dass Ihr Code vor dem Einreichen von einem anderen Teammitglied überprüft wird.
