@@ -1,7 +1,7 @@
 {
   "name": "tech-evangelism-webinar",
   "version": "1.0.0",
-  "description": "Ein interaktives Webinar zur Präsentation neuer Technologien.",
+  "description": "An interactive webinar showcasing new technologies.",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
